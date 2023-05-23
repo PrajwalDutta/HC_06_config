@@ -56,7 +56,7 @@ Note: Replace `<name>` and `<nnnn>` in the commands with your desired values.
 
 ## License
 
-This code is provided under an open-source license. Refer to the license file for more information.
+This code is provided under an MIT License. Refer to the license file for more information.
 
 ## Author
 
